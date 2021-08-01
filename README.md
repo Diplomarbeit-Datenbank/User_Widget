@@ -42,11 +42,9 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
      o Durch anschauen der obigen Bilder ist gut ersichtlich, wie sich das User Widget als Benutzer verwenden lässt.
      o Für Entwickler gilt es sich die main im File objects_on_user_widget anzusehen, um zu verstehen, wie man die 
        einzelnen Objecte plaziert
-     Main:
-     def main():
-    """
-        -> Just to test the function and classes of this library
-    """
+       
+    Main:
+    
     root = tk.Tk()
     root.config(bg='gray40')
     root.geometry('1200x600')
