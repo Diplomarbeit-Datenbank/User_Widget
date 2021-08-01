@@ -1,0 +1,24 @@
+#german
+Add User=Neuer Benutzer
+Profile Image=Profil Bild
+Enter Nik Name=Benutzer Name
+Password=Passwort
+Abort=Abbrechen
+Create=Erstellen
+Select GIF file=Wähle GIF aus
+Enter Password=Passwort Eingabe
+Enter Password for: =Passworteingabe für: 
+Password:=Passwort:
+Log In=Einloggen
+Cancel=Zurück
+Wrong Password=Falsches Passwort
+Wrong Password: Please try again=Falsches Passwort: Bitte versuche es erneut
+No Nik Name=Kein Benutzername
+Please enter nik name before continue=Bitte gib einen Bentuzernamen ein bevor du weitergehst
+No Password=Kein Passwort
+Would you like to have a password for your account?=Möchtest du ein Passwort für deinen Account?
+User already exist=Benutzer existiert bereits
+This user name is already taken please try another one=Dieser Benutzername ist bereits vergeben bitte versuche einen anderen
+Pix Level: =Pixel Level: 
+Number of Creations: =Anzahl der Kreationen: 
+Creations: =Gemacht: 
