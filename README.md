@@ -42,6 +42,39 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
      o Durch anschauen der obigen Bilder ist gut ersichtlich, wie sich das User Widget als Benutzer verwenden lässt.
      o Für Entwickler gilt es sich die main im File objects_on_user_widget anzusehen, um zu verstehen, wie man die 
        einzelnen Objecte plaziert
+     Main:
+     def main():
+    """
+        -> Just to test the function and classes of this library
+    """
+    root = tk.Tk()
+    root.config(bg='gray40')
+    root.geometry('1200x600')
+
+    new_user = New_user(root, lambda: function_user_widget.CreateNewUser(language='german'), language='german')
+    new_user.new_user.place(x=40, y=40)
+
+    open_user = Open_user(root, lambda: create_user_widget(root, (650, 250), 'Christof'),
+                          user_name='Christof', language='german')
+    open_user.open_user.place(x=240, y=40)
+
+    open_user = Open_user(root, lambda: create_user_widget(root, (650, 250), 'Elias'),
+                          user_name='Elias', language='german')
+    open_user.open_user.place(x=440, y=40)
+
+    open_user = Open_user(root, lambda: create_user_widget(root, (650, 250), 'Simon'),
+                          user_name='Simon', language='german')
+    open_user.open_user.place(x=640, y=40)
+
+    open_user = Open_user(root, lambda: create_user_widget(root, (650, 250), 'Andreas'),
+                          user_name='Andreas', language='german')
+    open_user.open_user.place(x=240, y=260)
+
+    open_user = Open_user(root, lambda: create_user_widget(root, (650, 250), 'Nik'),
+                          user_name='Nik', language='english')
+    open_user.open_user.place(x=440, y=260)
+
+    root.mainloop()
 
 
 
