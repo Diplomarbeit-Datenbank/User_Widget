@@ -40,7 +40,8 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
    
   # Verwendung:
      o Durch anschauen der obigen Bilder ist gut ersichtlich, wie sich das User Widget als Benutzer verwenden lässt.
-     o Für Entwickler gilt es sich die main im File objects_on_user_widget anzusehen, um zu verstehen, wie man die einzelnen Objecte plaziert
+     o Für Entwickler gilt es sich die main im File objects_on_user_widget anzusehen, um zu verstehen, wie man die 
+       einzelnen Objecte plaziert
 
 
 
