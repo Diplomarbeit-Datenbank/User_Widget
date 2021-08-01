@@ -3,7 +3,7 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
 
 
 # Aussehen:
-    o Schickes und modernes Desing im Dark Mode
+    -> Schickes und modernes Desing im Dark Mode!
 
  ## Erstellen eines Benutzers:
    ![Unbenannt](https://user-images.githubusercontent.com/87471423/127778126-5bb6bea3-e036-4abe-8b6d-66503d59aaf9.PNG) -------------> ![image](https://user-images.githubusercontent.com/87471423/127778190-7d6efa87-19e3-46d9-b3eb-0e38fb21e4d6.png)
