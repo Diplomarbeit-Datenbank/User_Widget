@@ -1,4 +1,7 @@
 # User_Widget
+
+![image](https://user-images.githubusercontent.com/87471423/127841002-8bb174af-5eb8-4237-9c44-9c60aed3e5b4.png)
+
 Ein Widget zum erstellen, oder auch einloggen eines Benutzers
 
 
