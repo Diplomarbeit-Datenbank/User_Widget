@@ -22,30 +22,32 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
 
 # Funktionen:
     o Erstellen von Benutzern
-    o Einfache platzierung der einzelnen Objekte wie zum Beispiel Benutzer Window
+    o Einfache Platzierung der einzelnen Objekte wie zum Beispiel Benutzer Fenster
     o Löschen eines bestehenden Benutzers
     o Einloggen eines bestehenden Benutzers
-    o Passwort Schutz für Benutzer wenn gewünscht
+    o Passwort Schutz für Benutzer, wenn gewünscht
     o Personalisierung durch einstellen eigener GIF Animationen als Profilbild
 
+
 # Benötigte Librarys:
-    o PILLOW:    -> download fia pip install PILLOW
-                 -> Benötigt für die Bildanzeigen (GIFS) am tkinter window
-    o tkinter:   -> Für die erzeugung der Interfaces
+    o PILLOW:    -> Download via pip install PILLOW
+                 -> Benötigt für die Bildanzeigen (GIFS) am tkinter Fenster
+    o tkinter:   -> Für die Erzeugung der Interfaces
                  -> tkinter wird ebenso für Ctkinter benötigt
-    o Ctkinter:  -> Für die Objecte am Interface
+    o Ctkinter:  -> Für die Objekte am Interface
                  -> Erzeugung von runden Kanten und anzeigen, abspielen von GIFS 
-    o languages: -> Für die darstellung des Widgets in mehreren Sprachen
-                 -> Beschreibung unter follgendem Link:
+    o languages: -> Für die Darstellung des Widgets in mehreren Sprachen
+                 -> Beschreibung unter folgendem Link:
     o opencv:    -> Für die Bildbearbeitung
                  -> Abspielen der GIFS am Interface
     o shutil:    -> Verschieben und kopieren von Daten
                  -> Verschieben des Profilbildes in eigenem angelegten Ordner
+
    
   # Verwendung:
      o Durch anschauen der obigen Bilder ist gut ersichtlich, wie sich das User Widget als Benutzer verwenden lässt.
      o Für Entwickler gilt es sich die main im File objects_on_user_widget anzusehen, um zu verstehen, wie man die 
-       einzelnen Objecte plaziert
+       einzelnen Objekte platziert
        
     Main:
     
