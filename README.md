@@ -3,18 +3,22 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
 
 
 # Aussehen:
-    -> Schickes und modernes Desing im Dark Mode!
 
  ## Erstellen eines Benutzers:
-   ![Unbenannt](https://user-images.githubusercontent.com/87471423/127778126-5bb6bea3-e036-4abe-8b6d-66503d59aaf9.PNG) -------------> ![image](https://user-images.githubusercontent.com/87471423/127778190-7d6efa87-19e3-46d9-b3eb-0e38fb21e4d6.png)
+   ![image](https://user-images.githubusercontent.com/87471423/127814651-79c1358d-9921-4a16-802f-f3be4e330a03.png)
+
    
 ## Einloggen eines bestehenden Benutzers:
-![image](https://user-images.githubusercontent.com/87471423/127778320-9e4fb85e-4012-411f-afd5-45e40b6ef8d7.png) -------------> ![image](https://user-images.githubusercontent.com/87471423/127778328-5ca5ac6a-aaee-4156-b7ae-4b9ad862ebd4.png)
+   ![image](https://user-images.githubusercontent.com/87471423/127816383-ecfd7441-5390-4399-8a98-3ff4f4d4c2e9.png)
 
-![image](https://user-images.githubusercontent.com/87471423/127778343-6c3f4fcb-693b-4d13-9ea7-59e86c0682e0.png)
+
+## Benutzerprofil im eingeloggten Zustand
+   ![image](https://user-images.githubusercontent.com/87471423/127816695-ec5c67aa-684b-41b6-b1d5-8b882f49afd9.png)
+
 
 ## Löschen eines bestehenden Benutzers:
-![image](https://user-images.githubusercontent.com/87471423/127778429-a9026b48-db84-40c4-9005-9f3d8fe7e918.png)
+   ![image](https://user-images.githubusercontent.com/87471423/127817146-5b4c6352-18bc-4dd1-a61d-3ad103d72bf2.png)
+
 
 # Funktionen:
     o Erstellen von Benutzern
