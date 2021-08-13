@@ -47,7 +47,7 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
                  -> Verschieben des Profilbildes in eigenem angelegten Ordner
 
    
-  # Verwendung:
+  # Entwickler Verwendung:
      o Durch anschauen der obigen Bilder ist gut ersichtlich, wie sich das User Widget als Benutzer verwenden lässt.
      o Für Entwickler gilt es sich die main im File objects_on_user_widget anzusehen, um zu verstehen, wie man die 
        einzelnen Objekte platziert
@@ -84,7 +84,13 @@ Ein Widget zum erstellen, oder auch einloggen eines Benutzers
     root.mainloop()
 
 
-
+# Eigenschaften:
+    o Copyright Christof Haidegger
+    o Erstellt von Christof Haidegger
+    o Debugging von Christof Haidegger
+    
+    o Geschriebene Zeilen in Python-Code: 780
+    o Geschriebene Zeilen in README-Code: 97
 
 
 
